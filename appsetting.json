@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionString": "server=localhost;port=3307;user id=root;pwd=password;database=mydatabase"
+
+}
+
+
